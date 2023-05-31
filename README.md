@@ -40,7 +40,7 @@ N/B "S & B are capital in pass"
 ```
 
 ### lINK TO LIVE SITE
-##### https://naomicherono.github.io/Banking-System/
+##### https://rotichkipkoech.github.io/BANK-SYSTEM/
 
 ## Design
 ![Screenshot from 2023-05-26 00-58-47](https://github.com/naomicherono/Banking-System/assets/132652298/56a30953-c105-45ec-96d1-5a810244a34b)
