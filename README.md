@@ -3,10 +3,7 @@
 ### Banking System
 ### Author 
 ``` 
-Naomi Cherono
 KENNEDY ROTICH
-JUSTIN KAMENTE
-SHADRACK KIBET
 
 ```
 ## Project Description
@@ -18,7 +15,7 @@ Banking system is a web portal that allows customers to organize and manage thei
 #### To set up and run the project follo the below steps
 
 ```
-git clone https://github.com/naomicherono/Banking-system.git
+git clone https://github.com/RotichKipkoech/BANK-SYSTEM.git
 git init
 git add <filename>
 git commit -m "initial commmit"
@@ -56,10 +53,10 @@ N/B "S & B are capital in pass"
 
 ### Support and Contacts
      
-#### You can reach me on nonniecherono@gmail.com
+#### You can reach me on kennrottich@gmail.com
 ### License
 
-Copyright (c) 2023 Naomi Cherono
+Copyright (c) 2023 KENNEDY ROTICH
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
